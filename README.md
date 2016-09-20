@@ -1,2 +1,5 @@
-# vim_config
-it's my vim config
+# ubuntu-environment-config-backup
+
+1. vimrc
+2. bashrc
+
